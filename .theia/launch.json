@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Empty_Project__No_Driverlib_Grlib_Example",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Empty_Project__No_Driverlib_Grlib_Example",
+                "resourceId": "/Empty_Project__No_Driverlib_Grlib_Example"
+            }
+        },
+        {
+            "name": "OneLEDBlink",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "OneLEDBlink",
+                "resourceId": "/OneLEDBlink"
+            }
+        },
+        {
+            "name": "TwoLEDButtonPress",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "TwoLEDButtonPress",
+                "resourceId": "/TwoLEDButtonPress"
+            }
+        },
+        {
+            "name": "challenge1AOCLCrossing",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "challenge1AOCLCrossing",
+                "resourceId": "/challenge1AOCLCrossing"
+            }
+        }
+    ]
+}
