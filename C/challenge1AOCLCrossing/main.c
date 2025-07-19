@@ -18,8 +18,7 @@ void main(void){
     P1REN |= B1; //pull up resistor activate
     P1OUT |= B1;
 
-    
-    
+
 
     int flash_red = 0;
 
