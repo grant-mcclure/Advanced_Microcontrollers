@@ -48,6 +48,7 @@ void main(void){
             if (flash_red){
                      P2OUT ^= (LED1 | LED2);// flip the bit
                     __delay_cycles(CPUCLOCK);
+                    flash_red = 1;
             }
             else{
                 P2OUT &= ~(LED1 | LED2); //turn them off
