@@ -1,23 +1,4 @@
 {
     "version": "0.2.0",
-    "configurations": [
-        {
-            "name": "TwoLEDButtonPress",
-            "type": "ccs-debug",
-            "request": "launch",
-            "projectInfo": {
-                "name": "TwoLEDButtonPress",
-                "resourceId": "/TwoLEDButtonPress"
-            }
-        },
-        {
-            "name": "challenge1AOCLCrossing",
-            "type": "ccs-debug",
-            "request": "launch",
-            "projectInfo": {
-                "name": "challenge1AOCLCrossing",
-                "resourceId": "/challenge1AOCLCrossing"
-            }
-        }
-    ]
+    "configurations": []
 }
