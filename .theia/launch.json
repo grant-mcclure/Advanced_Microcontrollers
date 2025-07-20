@@ -2,12 +2,21 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "BlinkLED_MSP-EXP430G2ET",
+            "name": "challenge1AOCLCrossing",
             "type": "ccs-debug",
             "request": "launch",
             "projectInfo": {
-                "name": "BlinkLED_MSP-EXP430G2ET",
-                "resourceId": "/BlinkLED_MSP-EXP430G2ET"
+                "name": "challenge1AOCLCrossing",
+                "resourceId": "/challenge1AOCLCrossing"
+            }
+        },
+        {
+            "name": "Challenge2LEDFlasher",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Challenge2LEDFlasher",
+                "resourceId": "/Challenge2LEDFlasher"
             }
         }
     ]
