@@ -1,4 +1,14 @@
 {
     "version": "0.2.0",
-    "configurations": []
+    "configurations": [
+        {
+            "name": "BlinkLED_MSP-EXP430G2ET",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "BlinkLED_MSP-EXP430G2ET",
+                "resourceId": "/BlinkLED_MSP-EXP430G2ET"
+            }
+        }
+    ]
 }
