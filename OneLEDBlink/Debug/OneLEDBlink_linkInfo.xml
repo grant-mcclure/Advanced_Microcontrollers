@@ -2,7 +2,7 @@
 <link_info>
    <banner>MSP430 Linker Unix v21.6.1.LTS</banner>
    <copyright>Copyright (c) 2003-2018 Texas Instruments Incorporated</copyright>
-   <link_time>0x6878abf3</link_time>
+   <link_time>0x687d3e76</link_time>
    <link_errors>0x0</link_errors>
    <output_file>OneLEDBlink.out</output_file>
    <entry_point>
@@ -1468,7 +1468,7 @@
          <size>0x100</size>
          <input_file_ref idref="fl-dc"/>
       </object_component>
-      <object_component id="oc-ee">
+      <object_component id="oc-f0">
          <name>.debug_info</name>
          <load_address>0xc85</load_address>
          <run_address>0xc85</run_address>
@@ -1551,7 +1551,7 @@
          <size>0x2a</size>
          <input_file_ref idref="fl-dc"/>
       </object_component>
-      <object_component id="oc-f1">
+      <object_component id="oc-ef">
          <name>.debug_line</name>
          <load_address>0x2fd</load_address>
          <run_address>0x2fd</run_address>
@@ -1725,7 +1725,7 @@
          <size>0x20</size>
          <input_file_ref idref="fl-d6"/>
       </object_component>
-      <object_component id="oc-ef">
+      <object_component id="oc-ee">
          <name>.debug_aranges</name>
          <load_address>0x60</load_address>
          <run_address>0x60</run_address>
@@ -1767,7 +1767,7 @@
          <size>0x1d</size>
          <input_file_ref idref="fl-dc"/>
       </object_component>
-      <object_component id="oc-f0">
+      <object_component id="oc-f1">
          <name>.debug_pubnames</name>
          <load_address>0x8a</load_address>
          <run_address>0x8a</run_address>
@@ -2125,7 +2125,7 @@
             <object_component_ref idref="oc-16d"/>
             <object_component_ref idref="oc-dd"/>
             <object_component_ref idref="oc-b2"/>
-            <object_component_ref idref="oc-ee"/>
+            <object_component_ref idref="oc-f0"/>
             <object_component_ref idref="oc-174"/>
             <object_component_ref idref="oc-26e"/>
          </contents>
@@ -2145,7 +2145,7 @@
             <object_component_ref idref="oc-170"/>
             <object_component_ref idref="oc-e0"/>
             <object_component_ref idref="oc-11e"/>
-            <object_component_ref idref="oc-f1"/>
+            <object_component_ref idref="oc-ef"/>
             <object_component_ref idref="oc-177"/>
          </contents>
       </logical_group>
@@ -2202,7 +2202,7 @@
             <object_component_ref idref="oc-147"/>
             <object_component_ref idref="oc-141"/>
             <object_component_ref idref="oc-de"/>
-            <object_component_ref idref="oc-ef"/>
+            <object_component_ref idref="oc-ee"/>
             <object_component_ref idref="oc-175"/>
          </contents>
       </logical_group>
@@ -2216,7 +2216,7 @@
             <object_component_ref idref="oc-142"/>
             <object_component_ref idref="oc-df"/>
             <object_component_ref idref="oc-b3"/>
-            <object_component_ref idref="oc-f0"/>
+            <object_component_ref idref="oc-f1"/>
             <object_component_ref idref="oc-176"/>
          </contents>
       </logical_group>

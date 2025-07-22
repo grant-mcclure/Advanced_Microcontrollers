@@ -18,6 +18,24 @@
                 "name": "Challenge2LEDFlasher",
                 "resourceId": "/Challenge2LEDFlasher"
             }
+        },
+        {
+            "name": "OneLEDBlink",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "OneLEDBlink",
+                "resourceId": "/OneLEDBlink"
+            }
+        },
+        {
+            "name": "traffic_light_crossing",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "traffic_light_crossing",
+                "resourceId": "/traffic_light_crossing"
+            }
         }
     ]
 }
