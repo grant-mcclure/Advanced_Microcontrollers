@@ -6,7 +6,7 @@
 #define GREENON 5000000 //5s at 1Mhz Clock
 #define YELLOWON 2000000 //2s at 1Mhz Clock
 #define REDON 5000000 //5s at 1Mhz Clock
-#define BuzzerOn 500000 //0.5s at 1MHz clock
+#define BUTTONON 500000 //0.5s at 1MHz clock
 #define SAMPLECYCLES 50000 //sample every 50ms at 1MHz
 #define BUTTON BIT3
 
