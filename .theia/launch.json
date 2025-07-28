@@ -36,6 +36,15 @@
                 "name": "traffic_light_crossing",
                 "resourceId": "/traffic_light_crossing"
             }
+        },
+        {
+            "name": "OneLEDBlinkASM.asm",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "OneLEDBlinkASM.asm",
+                "resourceId": "/OneLEDBlinkASM.asm"
+            }
         }
     ]
 }
