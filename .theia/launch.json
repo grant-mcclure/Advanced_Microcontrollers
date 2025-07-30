@@ -45,6 +45,15 @@
                 "name": "OneLEDBlinkASM.asm",
                 "resourceId": "/OneLEDBlinkASM.asm"
             }
+        },
+        {
+            "name": "twoLEDBlink.asm",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "twoLEDBlink.asm",
+                "resourceId": "/twoLEDBlink.asm"
+            }
         }
     ]
 }
