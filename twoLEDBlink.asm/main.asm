@@ -23,7 +23,6 @@ Delay1: dec.w R15 ; find the number in the R15 register then decrement by this
         bis.b #BIT3, &P2OUT ; turn on 
 
         mov.w #30000, R15
-
 Delay2: 
         dec.w R15
         jnz Delay2

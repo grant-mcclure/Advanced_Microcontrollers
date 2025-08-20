@@ -54,6 +54,15 @@
                 "name": "twoLEDBlink.asm",
                 "resourceId": "/twoLEDBlink.asm"
             }
+        },
+        {
+            "name": "tunableBuzzer",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "tunableBuzzer",
+                "resourceId": "/tunableBuzzer"
+            }
         }
     ]
 }
